@@ -7,6 +7,7 @@ output:
     theme: architect
     highlight: github
 lang: ru-RU
+github: "https://github.com/wowxoxo/r-lang_project"
 ---
 
 # 1. Введение
